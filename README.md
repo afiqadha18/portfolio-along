@@ -6,8 +6,8 @@ Portfolio Along Mira
 git init<br>
 git config --global user.email "afiqadhabaharudin@gmail.com"<br>
 git config --global user.name "afiqadha18"<br>
-git clone https://github.com/fiqadha18/portfolio-along.git<br>
-git remote add origin https://github.com/fiqadha18/portfolio-along.git<br>
+git clone https://github.com/afiqadha18/portfolio-along.git<br>
+git remote add origin https://github.com/afiqadha18/portfolio-along.git<br>
 
 git add . <br>
 git commit -m "first commit" <br>
